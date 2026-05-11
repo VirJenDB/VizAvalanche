@@ -5,6 +5,10 @@ VizAvalanche – Hacking some nice plots!
 
 https://bbb00.mirz.uni-jena.de/playback/presentation/2.3/9b2ee95a5c54d7d9a07a7a6b637f0f22d7266968-1778505675697
 
+## Video Conference Room
+
+https://bbb.mirz.uni-jena.de/b/ste-y0n-jeq-70y
+
 ## Overiview
 
 VirJenDB (virjendb.org) is a large-scale virus genome sequence database containing approximately 15 million sequences, 910 thousand vOTUs and 90 metadata fields.
