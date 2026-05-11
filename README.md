@@ -14,7 +14,7 @@ If you want to contribute to the plots or improve code:
 
 * clone this repo
 * eat some cookies
-* implement your idead
+* implement your ideas
 * share a pull request with us!
 
   
