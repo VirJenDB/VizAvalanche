@@ -17,4 +17,17 @@ If you want to contribute to the plots or improve code:
 * implement your ideas
 * share a pull request with us!
 
+## contribution atlas
+
+So one idea is to create a world map, that visualizes information like:
+
+* where came the samples from
+* where are the institutions that submitted data to our DB
+
+Steps to create such a map could be:
+
+1. find existing implementations for such maps (plotly, javascript+svg, …)
+2. find out how to use these templates for our aims
+3. if any data is required that is not in the provided CSV file: specify which data we need to provide
+4. alter the templates to show our data
   
