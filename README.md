@@ -17,7 +17,26 @@ If you want to contribute to the plots or improve code:
 * implement your ideas
 * share a pull request with us!
 
-## wold map with source data
+## general flow
+
+* get a GitHub account
+* clone this repository
+* download the provided data
+* IDE setup (+python environment)
+    * we can help you with IntelliJ Idea
+    * load the repository in you IDE
+* start hacking!
+* if you created something you consider useful: push it to your github account and create a pull request
+  
+
+## Ideas
+
+### Logarithmic plots
+
+There already are some plots on the page, that need a log scale.
+We want to figure out, how to apply this.
+
+### wold map with source data
 
 So one idea is to create a world map, that visualizes information like:
 
@@ -31,14 +50,3 @@ Steps to create such a map could be:
 3. if any data is required that is not in the provided CSV file: specify which data we need to provide
 4. alter the templates to show our data
 
-## general flow
-
-* get a GitHub account
-* clone this repository
-* download the provided data
-* IDE setup (+python environment)
-    * we can help you with IntelliJ Idea
-    * load the repository in you IDE
-* start hacking!
-* if you created something you consider useful: push it to your github account and create a pull request
-  
