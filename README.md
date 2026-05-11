@@ -31,7 +31,19 @@ If you want to contribute to the plots or improve code:
 
 ## Ideas
 
-### Logarithmic plots
+### sequence length distribution
+
+create a plot showing how abundant different sequence lengths are in our database
+
+### submissions over time
+
+create a plot showing a time scale and the number of sequences added at different time points
+
+### number of clusters by GC content
+
+create a plot of GC content bins and how many clusters or single sequences are in that bins
+
+### logarithmic plots
 
 There already are some plots on the page, that need a log scale.
 We want to figure out, how to apply this.
