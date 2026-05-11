@@ -8,7 +8,7 @@ The goal of this hackathon project is to create and add plots to dev.virjendb.or
 
 The dataset underlying the existing statistics can be obtained from https://cloud.uni-jena.de/s/9BWwdkBCKYsi6yB for the duration of this hackathon.
 
-The file `api.py` is the current code that creates most of these plots.
+The file `api.py` is the current code that creates most of these plots – (only for inspiration) no need to modify that. 
 
 If you want to contribute to the plots or improve code:
 
@@ -46,7 +46,18 @@ So one idea is to create a world map, that visualizes information like:
 Steps to create such a map could be:
 
 1. find existing implementations for such maps (plotly, javascript+svg, …)
+   → there probably are libraries out in the wild that are prepared to create such maps
 2. find out how to use these templates for our aims
-3. if any data is required that is not in the provided CSV file: specify which data we need to provide
-4. alter the templates to show our data
+3. figure out, how to read data from the CSV file or – if required – from out API
+4. if any data is required that is not in the provided CSV file: specify which data we need to provide
 
+## Getting data out of our API:
+
+Our web page has an API, that could be used to gather additional data.
+For you, the up-to-date API is available at https://api2.virjendb.org/v2
+
+### Important endpoints:
+
+* https://api2.virjendb.org/v2#/Metadata/_public_v2_metadata_public_get – inspect fields available to the public
+* https://api2.virjendb.org/v2#/Download/_process_download_v2_download_post – download requird data to a file
+* https://api2.virjendb.org/v2#/Search/_do_search_v2_search_post – search the database
