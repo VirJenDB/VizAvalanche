@@ -1,6 +1,12 @@
 # VizAvalanche
 VizAvalanche – Hacking some nice plots!
 
+## Short introduction video
+
+https://bbb00.mirz.uni-jena.de/playback/presentation/2.3/9b2ee95a5c54d7d9a07a7a6b637f0f22d7266968-1778505675697
+
+## Overiview
+
 VirJenDB (virjendb.org) is a large-scale virus genome sequence database containing approximately 15 million sequences, 910 thousand vOTUs and 90 metadata fields.
 Currently statistics of these data can be found at https://virjendb.org/stats.
 We aim to extend this page with informative and visually appealing summaries of the vOTU dataset.
