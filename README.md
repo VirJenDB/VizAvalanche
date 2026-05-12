@@ -9,7 +9,7 @@ https://bbb00.mirz.uni-jena.de/playback/presentation/2.3/9b2ee95a5c54d7d9a07a7a6
 
 https://bbb.mirz.uni-jena.de/b/ste-y0n-jeq-70y
 
-## Overiview
+## Overview
 
 VirJenDB (virjendb.org) is a large-scale virus genome sequence database containing approximately 15 million sequences, 910 thousand vOTUs and 90 metadata fields.
 Currently statistics of these data can be found at https://virjendb.org/stats.
