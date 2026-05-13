@@ -1,0 +1,15 @@
+name: virjendb_r_viz
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base>=4.3
+  - r-httr2
+  - r-dplyr
+  - r-purrr
+  - r-ggplot2
+  - r-plotly
+  - r-lubridate
+  - r-scales
+  - r-htmlwidgets
+  - r-maps
