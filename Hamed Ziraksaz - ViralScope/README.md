@@ -4,6 +4,9 @@ An interactive choropleth map dashboard built on VirJenDB data.
 
 **Full project:** https://github.com/Hziraksaz/ViralScope
 
+## Preview
+![ViralScope Dashboard](screenshot.png)
+
 ## Features
 - World map with 138 countries colored by sequence count (13M records)
 - Search across viral records with family/host/country filters
